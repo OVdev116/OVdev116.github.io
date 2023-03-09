@@ -1,5 +1,4 @@
 # Weather app
-![alt-текст](https://github.com/OVdev116/ovdev116.github.io/blob/main/screen.jpg)
 ## О проекте
 Отзывчивое веб-приложение Weather,созданное с использованием стороннего сервиса API OpenWeatherMap (http://api.openweathermap.org/), для получения общих сведений о погоде, температуре, влажности.
 Также в приложении реализована возможжность добавления городов в список избранных
